@@ -127,22 +127,6 @@ class MSJ:
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TROPHY CASE                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 〉cat ./trophies.md
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=msjabata25&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    ACTIVITY GRAPH                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -164,41 +148,8 @@ class MSJ:
 ## 〉watch -n 43200 ./snake.sh
 
 <!-- After adding the snake GitHub Action (see below), uncomment this: -->
-<!-- ![snake gif](https://github.com/msjabata25/msjabata25/blob/output/github-contribution-grid-snake-dark.svg) -->
+![snake gif](https://github.com/msjabata25/msjabata25/blob/output/github-contribution-grid-snake-dark.svg)
 
-> ⚙️ **Snake setup:** create `.github/workflows/snake.yml` in this repo with the workflow below — it'll auto-generate and commit the SVG every 12h, then uncomment the line above.
-
-<details>
-<summary>🐍 snake.yml workflow</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: msjabata25
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   THE UNHINGED SECTION                    -->
