@@ -92,21 +92,17 @@ class MSJ:
 
 [![Skills](https://skillicons.dev/icons?i=cpp,python,ts,js&perline=8)](https://skillicons.dev)
 
-**AI / ML**
-
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8)](https://skillicons.dev)
-
 **Web & Fullstack**
 
 [![Skills](https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,tailwind,html,css&perline=8)](https://skillicons.dev)
 
 **Infra & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=docker,git,linux,bash,vscode,neovim,raspberrypi&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,linux,bash,vscode,raspberrypi&perline=8)](https://skillicons.dev)
 
 **Currently Learning**
 
-[![Skills](https://skillicons.dev/icons?i=rust,kubernetes&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes&perline=8)](https://skillicons.dev)
 
 ---
 
