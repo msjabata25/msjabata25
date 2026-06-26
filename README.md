@@ -76,7 +76,7 @@ class MSJ:
 | Project | Stack | Status |
 |---|---|---|
 | **[Pragma](https://github.com/msjabata25/pragma)** — Agentic RAG code auditor. Semgrep/Snyk → Flash query gen → ChromaDB RAG → Gemini/Claude explainer. Two modes: Autopilot (vibe coders) & Manual (devs who know what they're doing). | `FastAPI` `LlamaIndex` `ChromaDB` `Gemini` `Claude` | 🟢 Active |
-| **[IES JUST Website](https://github.com/msjabata25/ies-just-website)** — Terminal/hacker-OS aesthetic. Built and deployed in 24h of joining the chapter. | `Next.js` `GSAP` `Lenis` `Netlify` | 🟢 Live |
+| **[IES JUST Website](https://github.com/msjabata25/ies)** — Terminal/hacker-OS aesthetic. Built and deployed in 24h of joining the chapter. | `Next.js` `GSAP` `Lenis` `Netlify` | 🟢 Live |
 | **Wasl (وصل)** — Devpost-style hackathon hub for Jordanian students. AI-powered: course material → explanations, market demand mapping, competition matching. | `Next.js` `FastAPI` `AI` | 🔵 Concept |
 | **Benson** — Local AI voice assistant on Raspberry Pi 5, running Gemma offline. Because cloud is a lie. | `RPi5` `Gemma` `Python` | 🟡 On hold |
 
